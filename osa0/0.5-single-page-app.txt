@@ -1,0 +1,9 @@
+selain->palvelin: Pyytää sovelluksen tiedostoja
+palvelin->selain: Antaa tiedostot
+
+Javascript alkaa suorittaa koodia ladattaessa
+
+selain->palvelin: HTTP GET https://studies.cs.helsinki.fi/exampleapp/data.json
+palvelin->selain: vastaa data.json:lla
+
+Selain renderöi datan näkyville JS:n toimesta

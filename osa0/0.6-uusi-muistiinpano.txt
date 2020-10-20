@@ -1,0 +1,3 @@
+selain->palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+
+selain renderöi sisällön uudelleen kun http pyyntö on suoritettu
